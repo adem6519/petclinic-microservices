@@ -79,7 +79,7 @@
             <id>springboot</id>
             <activation>
                 <file>
-                    <!-- Just a way to identify a Spring Boot applicationaaaaa -->
+                    <!-- Just a way to identify a Spring Boot application -->
                     <exists>src/main/resources/bootstrap.yml</exists>
                 </file>
             </activation>
